@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&height=300&section=header&text=ByungJin&fontSize=100)
 
-<h2>I Hope</h2>
 
 <h3>I want to be a front developer who makes people want to develop with me<h3>
 
