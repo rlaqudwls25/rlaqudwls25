@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&text=ByungJin&fontSize=100)
+![header](https://capsule-render.vercel.app/api?color=gradient&height=200&section=header&text=ByungJin&fontSize=100)
 
 <h3 align="center"> Tech Stack </h3>
 
