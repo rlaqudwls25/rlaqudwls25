@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter%&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/0175C2?style=flat-square&logo=Dart%&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart%&logoColor=white"/></a>
 
