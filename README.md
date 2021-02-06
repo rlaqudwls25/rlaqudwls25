@@ -4,7 +4,7 @@
 <h3>I want to be a front developer who makes people want to develop with me:grinning:<h3>
 
 
-<h3> Tech Stack:pencil2: </h3>
+<h2> Tech Stack</h2>
 
 <p> Tech that I've used at least once</p>
 
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL%&logoColor=white"/></a>
 
 
-<h3>Me:hand:</h3>
+<h2>Me</h2>
 <a href="https://velog.io/@go286">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@go286"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
