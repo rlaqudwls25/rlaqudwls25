@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL%&logoColor=white"/></a>
 
 
-<h3>Me</h3>:hand:
+<h3>Me:hand:</h3>
 <a href="https://velog.io/@go286">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@go286"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
