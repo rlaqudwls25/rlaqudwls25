@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&height=300&section=header&text=ByungJin&fontSize=100)
 
-<h3> Tech Stack </h3>
+<h3> Tech Stack:pencil2: </h3>
 
 <p> Tech that I've used at least once</p>
 
