@@ -22,10 +22,6 @@
 
 
 <h2>Me</h2>
-<a href="https://velog.io/@go286">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@go286"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://rlaqudwls157@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://rlaqudwls157@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
